@@ -1,0 +1,18 @@
+Dapper
+Humanizer
+FluentValidation
+JWT
+Email
+Polly
+AutoMapper
+Logging
+CacheManager
+Tests
+Fluent Assertions
+Mock
+Documentation (Swashbuckle)
+Attatch files
+Export reports
+
+
+Obs.: Always check the most used library before choose to use it.

@@ -1,0 +1,12 @@
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\bin\Debug\net7.0\ToDo.Tests.deps.json
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\bin\Debug\net7.0\ToDo.Tests.dll
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\bin\Debug\net7.0\ToDo.Tests.pdb
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.csproj.AssemblyReference.cache
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.AssemblyInfoInputs.cache
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.AssemblyInfo.cs
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.dll
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\refint\ToDo.Tests.dll
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ToDo.Tests.pdb
+C:\Users\ldpo9\Documents\Projetos\toDoApp-dotnet-react\ToDo.Tests\obj\Debug\net7.0\ref\ToDo.Tests.dll
